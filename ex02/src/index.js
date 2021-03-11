@@ -1,10 +1,9 @@
-function main () {
-    var myRes=75;
+function main() {
+  var myRes = 75;
 
-    myRes ++ ;
+  myRes++;
 
-    return myRes;
-
+  return myRes;
 }
 
 console.log(main());
