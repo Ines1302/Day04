@@ -1,10 +1,9 @@
-function main () {
-    var myRes=16;
+function main() {
+  var myRes = 16;
 
-    myRes -- ;
+  myRes--;
 
-    return myRes;
-
+  return myRes;
 }
 
 console.log(main());
